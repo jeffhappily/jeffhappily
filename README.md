@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeff 👋
 
-I'm a [software engineer](https://resume-jeffhappily.s3.amazonaws.com/jeff-master.pdf) and a first year CS student at University of London.
+I'm a [software engineer](https://resume-jeffhappily.s3.amazonaws.com/jeff.pdf).
 
 I focus on writing well abstracted and reliable code. I believe funtional programming and a good type system are the right tools to help achieve this. Therefore, I’m learning Haskell and looking for an opportunity to use it at work.
 
